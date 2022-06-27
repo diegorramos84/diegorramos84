@@ -1,20 +1,27 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **Javascript & React**
+now:
 
-- 👯 I’m looking to collaborate on **open source software projects**
 
-- 📫 How to reach me **diegorramos84@gmail.com**
+bio:
 
-- 📄 [Know about my experiences](https://resume.io/r/lbWzFTT5O)
+* 🌱 I’m currently learning **Javascript & React**
 
-- ⚡ Fun fact **I'm finally changing careers to work on something I'm really passionate about :)**
+* 👯 I’m looking to collaborate on **open source software projects**
+
+* 📫 How to reach me **diegorramos84@gmail.com**
+
+* 📄 [Know about my experiences](https://resume.io/r/lbWzFTT5O)
+
+* ⚡ Fun fact **I'm finally changing careers to work on something I'm really passionate about :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diegorramos84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegorramos84" height="30" width="40" /></a>
+<a target="_blank"href="https://linkedin.com/in/diegorramos84"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:diegorramos84i@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorramos84&show_icons=true&count_private=true&theme=dracula&hide_border=true)](https://github.com/diegorramos84)
 
