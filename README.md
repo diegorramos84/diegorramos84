@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **diegorramos84@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/lbWzFTT5O](https://resume.io/r/lbWzFTT5O)
+- 📄 [Know about my experiences](https://resume.io/r/lbWzFTT5O)
 
 - ⚡ Fun fact **I'm finally changing careers to work on something I'm really passionate about :)**
 
