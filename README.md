@@ -2,12 +2,11 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 now:
+* Recently graduated from Le Wagon Web Dev Bootcamp
+* * 🌱 I’m currently learning **Javascript & React**
 
 
 bio:
-
-* 🌱 I’m currently learning **Javascript & React**
-
 * 👯 I’m looking to collaborate on **open source software projects**
 
 * 📫 How to reach me **diegorramos84@gmail.com**
