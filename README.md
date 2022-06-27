@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">I'm a Full-Stack Developer livin in London, UK</h3>
+<h3 align="center">I'm a Full-Stack Developer living in London, UK</h3>
 
 now:
 * :hearts: Recently graduated from Le Wagon Web Dev Bootcamp
 *  🌱 I’m currently learning **Javascript & React**
 
-https://avatars.githubusercontent.com/u/5470001?s=200&v=4
 bio:
 * 👯 I’m looking to collaborate on **open source software projects**
 
