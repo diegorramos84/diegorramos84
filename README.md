@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">I'm a Full-Stack Developer livin in London, UK</h3>
 
 now:
-* Recently graduated from Le Wagon Web Dev Bootcamp
-* * 🌱 I’m currently learning **Javascript & React**
+* :hearts: Recently graduated from Le Wagon Web Dev Bootcamp
+*  🌱 I’m currently learning **Javascript & React**
 
-
+https://avatars.githubusercontent.com/u/5470001?s=200&v=4
 bio:
 * 👯 I’m looking to collaborate on **open source software projects**
 
@@ -23,6 +23,4 @@ bio:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorramos84&show_icons=true&count_private=true&theme=dracula&hide_border=true)](https://github.com/diegorramos84)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorramos84&layout=compact&theme=dracula&hide_border=true)](https://github.com/diegorramos84)
