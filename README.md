@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/diegorramos84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diegorramos84" height="30" width="40" /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorramos84&show_icons=true&count_private=true&theme=dracula&hide_border=true)](https://github.com/diegorramos84/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorramos84&show_icons=true&count_private=true&theme=dracula&hide_border=true)](https://github.com/diegorramos84)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorramos84&layout=compact&theme=dracula&hide_border=true)](https://github.com/diegorramos84/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorramos84&layout=compact&theme=dracula&hide_border=true)](https://github.com/diegorramos84)
