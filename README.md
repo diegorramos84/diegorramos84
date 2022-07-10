@@ -10,7 +10,7 @@ bio:
 
 * 📄 [Know about my experiences](https://resume.io/r/lbWzFTT5O)
 
-* ⚡ Fun fact **I'm finally changing careers to work on something I'm really passionate about :)**
+* ⚡ **I'm finally changing careers to work on something I'm really passionate about :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
