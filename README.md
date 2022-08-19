@@ -3,7 +3,8 @@
 
 now:
 * :hearts: Recently graduated from Le Wagon Web Dev Bootcamp
-*  🌱 I’m currently learning **Javascript & React**
+* :pencil2: I’m currently taking the [Full Stack Open - Deep Dive Into Modern Web Development](https://fullstackopen.com/en/#course-contents) course
+* :books: I'm currently reading: [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 bio:
 * 👯 I’m looking to collaborate on **open source software projects**
