@@ -9,7 +9,7 @@ now:
 bio:
 * 👯 I’m looking to collaborate on **open source software projects**
 
-* 📄 [Know about my experiences](https://resume.io/r/lbWzFTT5O)
+* 📄 [Know about my experiences](https://resume.io/r/SKA2AoNM4)
 
 * ⚡ **I'm finally changing careers to work on something I'm really passionate about :)**
 
