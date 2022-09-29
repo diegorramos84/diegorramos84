@@ -12,7 +12,7 @@ now:
 * :books: I'm currently reading: [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 bio:
-* I'm especially interested in jobs that are helping the world reach **carbon neutrality**
+* :earth_americas: I'm especially interested in jobs that are helping the world reach **carbon neutrality**
 * 👯 I’m looking to collaborate on **open source software projects**
 * 📄 [Know about my experiences](https://resume.io/r/SKA2AoNM4)
 
