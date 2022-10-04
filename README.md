@@ -9,7 +9,7 @@
 
 now:
 * :hearts: Recently graduated from Le Wagon's Web Dev Bootcamp
-* :pencil2: I’m currently learning [React and Node](https://fullstackopen.com/en/#course-contents)
+* :pencil2: I’m currently learning [MERN stack](https://fullstackopen.com/en/#course-contents)
 * :books: I'm currently reading: [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 bio:
