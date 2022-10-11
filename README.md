@@ -23,7 +23,3 @@ bio:
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegorramos&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorramos84&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
