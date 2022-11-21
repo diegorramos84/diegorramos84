@@ -10,7 +10,7 @@
 now:
 * :hearts: Recently graduated from Le Wagon's Web Dev Bootcamp
 * :pencil2: I’m currently learning [MERN stack](https://fullstackopen.com/en/#course-contents)
-* :books: I'm currently reading: [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
+<!-- * :books: I'm currently reading: [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) -->
 
 bio:
 * :earth_americas: I'm especially interested in jobs that are helping the world reach **carbon neutrality**
