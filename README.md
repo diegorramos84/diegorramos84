@@ -2,8 +2,6 @@
 <h2 align="center">I'm a Full-Stack Developer living in London, UK</h2>
 <h3 align="center">⚡ Changing careers to work on something that I'm really passionate about </h3>
 <p align="center">
-<a target="_blank"href="https://linkedin.com/in/diegorramos84"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:diegorramos84i@gmail.com?subject=Hello%20Diego,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://www.diegorramos.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=#ff0066"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -16,7 +14,9 @@
 
 ### Connect with me
 [<img height="32" width="32" src="https://cdn.simpleicons.org/LINKEDIN/#0A66C2"/>](https://linkedin.com/in/diegorramos84)
+&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.simpleicons.org/Gmail/#EA4335"/>](mailto:diegorramos84i@gmail.com?subject=Hello%20Diego,%20From%20Github)
+&nbsp;&nbsp;
 
 
 ### Languages and Tools
