@@ -15,6 +15,9 @@
 * 📄 [Know about my experiences](https://docs.google.com/document/d/13KKMcKuW1-EVkHwyF2LEzBWYcrLmJST0EUXrwjqdtQA/edit?usp=sharing)
 
 ### Connect with me
+[<img height="32" width="32" src="https://cdn.simpleicons.org/LINKEDIN/#0A66C2"/>](https://linkedin.com/in/diegorramos84)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/Gmail/#EA4335"/>](mailto:diegorramos84i@gmail.com?subject=Hello%20Diego,%20From%20Github)
+
 
 ### Languages and Tools
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
