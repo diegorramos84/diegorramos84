@@ -18,7 +18,7 @@ bio:
 * 📄 [Know about my experiences](https://resume.io/r/SKA2AoNM4)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-six-pearl-14.vercel.app//api?username=diegorramos84&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-six-pearl-14.vercel.app/api?username=diegorramos84&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=diegorramos&theme=vision-friendly-dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
