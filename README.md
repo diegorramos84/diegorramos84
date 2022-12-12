@@ -7,15 +7,16 @@
 <a target="_blank" href="https://www.diegorramos.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=#ff0066"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-now:
+
 * :hearts: Recently graduated from Le Wagon's Web Dev Bootcamp
 * :pencil2: I’m currently learning [MERN stack](https://fullstackopen.com/en/#course-contents)
-<!-- * :books: I'm currently reading: [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS) -->
-
-bio:
 * :earth_americas: I'm especially interested in jobs that are helping the world reach **carbon neutrality**
 * 👯 I’m looking to collaborate on **open source software projects**
-* 📄 [Know about my experiences](https://resume.io/r/SKA2AoNM4)
+* 📄 [Know about my experiences](https://docs.google.com/document/d/13KKMcKuW1-EVkHwyF2LEzBWYcrLmJST0EUXrwjqdtQA/edit?usp=sharing)
+
+### Connect with me
+
+### Languages and Tolls
 
 
 [![Anurag's GitHub stats](https://github-readme-stats-six-pearl-14.vercel.app/api?username=diegorramos84&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
