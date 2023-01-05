@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h2 align="center">I'm a Full-Stack Developer living in London, UK</h2>
-<h3 align="center">⚡ Changing careers to work on something that I'm really passionate about </h3>
+<h3 align="center">⚡ Coding Bootcamp graduate looking to transition into web development </h3>
 <p align="center">
 <a target="_blank" href="https://www.diegorramos.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=#ff0066"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
