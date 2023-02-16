@@ -44,6 +44,6 @@
 ---
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-92dh0tehe-diegorramos84.vercel.app/api?username=diegorramos84&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-master-diegorramos84.vercel.app/api?username=diegorramos84&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-new-git-master-diegorramos84.vercel.app/api/top-langs/?username=diegorramos84&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-diegorramos84.vercel.app/api/top-langs/?username=diegorramos84&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
