@@ -5,7 +5,7 @@
 </p>
 
 
-* :hearts: Recently graduated from Le Wagon's Web Dev Bootcamp
+* :hearts: Le Wagon's Web Dev Bootcamp graduate
 * :pencil2: I’m currently learning [MERN stack](https://fullstackopen.com/en/#course-contents)
 * :earth_americas: I'm especially interested in jobs that are helping the world reach **carbon neutrality**
 * 👯 I’m looking to collaborate on **open source software projects**
