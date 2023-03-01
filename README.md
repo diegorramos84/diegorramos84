@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h2 align="center">Full Stack Web Developer | Ruby on Rails | Javascript | React.js | Node.js |</h2>
 <p align="center">
-<a target="_blank" href="https://www.diegorramos.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logoColor=#ff0066"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
 
 
-* :hearts: Le Wagon's Web Dev Bootcamp graduate
-* :pencil2: I’m currently learning [MERN stack](https://fullstackopen.com/en/#course-contents)
+* :hearts: Web Dev Bootcamp graduate (Le Wagon - London)
+* :eyes: Check my [portfolio](https://www.diegorramos.com)
+* :pencil2: I’m currently learning: [Advanced MERN stack - MongoDB, Express, React, Node](https://fullstackopen.com/en/#course-contents)
 * :earth_americas: I'm especially interested in jobs that are helping the world reach **carbon neutrality**
 * 👯 I’m looking to collaborate on **open source software projects**
 * 📄 [Know about my experiences](https://docs.google.com/document/d/13KKMcKuW1-EVkHwyF2LEzBWYcrLmJST0EUXrwjqdtQA/edit?usp=sharing)
