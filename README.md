@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h2 align="center">Full Stack Web Developer | Ruby on Rails | Javascript | React.js | Node.js |</h2>
+<h2 align="center">Full Stack Web Developer | Javascript | React.js | Node.js | Ruby on Rails |</h2>
 <p align="center">
 
 
