@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
-<h2 align="center">Full Stack Web Developer | Javascript | React.js | Node.js | Ruby on Rails |</h2>
+<h2 align="center">Full Stack Web Developer | Javascript | Python | React.js | Node.js | Flask | Django | Ruby on Rails |</h2>
 <p align="center">
 
-
-* :hearts: Web Dev Bootcamp graduate (Le Wagon - London)
 * :eyes: Check my [portfolio](https://www.diegorramos.com)
-* :pencil2: I’m currently learning: [Advanced MERN stack - MongoDB, Express, React, Node](https://fullstackopen.com/en/#course-contents)
-* :earth_americas: I'm especially interested in jobs that are helping the world reach **carbon neutrality**
+* :pencil2: I’m currently studying for my AWS Certified Cloud Practitioner Certification 
 * 👯 I’m looking to collaborate on **open source software projects**
 * 📄 [Know about my experiences](https://docs.google.com/document/d/13KKMcKuW1-EVkHwyF2LEzBWYcrLmJST0EUXrwjqdtQA/edit?usp=sharing)
 
@@ -23,6 +20,7 @@
 <img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Rails" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
