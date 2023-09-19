@@ -38,6 +38,7 @@
 
 ## My last DEV articles
 <!-- BLOG-POST-LIST:START -->
+- [Connect Django to ElephantSQL](https://dev.to/diegorramos84/connect-django-to-elephantsql-10g0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
