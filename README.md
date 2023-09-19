@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego</h1>
+<h1 align="center">Hi there 👋</h1>
 <h2 align="center">Full Stack Web Developer | Javascript | Python | React.js | Node.js | Flask | Django | Ruby on Rails |</h2>
 <p align="center">
 
@@ -7,14 +7,14 @@
 * 👯 I’m looking to collaborate on **open source software projects**
 * 📄 [Know about my experiences](https://docs.google.com/document/d/13KKMcKuW1-EVkHwyF2LEzBWYcrLmJST0EUXrwjqdtQA/edit?usp=sharing)
 
-### Connect with me
+## Connect with me
 [<img height="32" width="32" src="https://cdn.simpleicons.org/LINKEDIN/#0A66C2"/>](https://linkedin.com/in/diegorramos84)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.simpleicons.org/Gmail/#EA4335"/>](mailto:diegorramos84i@gmail.com?subject=Hello%20Diego,%20From%20Github)
 &nbsp;&nbsp;
 
 
-### Languages and Tools
+## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
@@ -33,9 +33,12 @@
 <img align="left" alt="Github" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
+<br />
+<br />
 
-<br />
-<br />
+## My last DEV articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
