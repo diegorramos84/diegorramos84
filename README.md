@@ -8,10 +8,8 @@
 * 📄 [Know about my experiences](https://docs.google.com/document/d/13KKMcKuW1-EVkHwyF2LEzBWYcrLmJST0EUXrwjqdtQA/edit?usp=sharing)
 
 ## Connect with me
-[<img height="32" width="32" src="https://cdn.simpleicons.org/LINKEDIN/#0A66C2"/>](https://linkedin.com/in/diegorramos84)
-&nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.simpleicons.org/Gmail/#EA4335"/>](mailto:diegorramos84i@gmail.com?subject=Hello%20Diego,%20From%20Github)
-&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/diegorramos84"><img src="https://img.shields.io/badge/-Diego%20Ramos%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/adeoluwa-agbakosi-687023219" alt="LinkedIn Badge"></a>
+<a href="mailto:diegorramos84@gmail.com"><img src="https://img.shields.io/badge/-Diego%20Ramos-fff?style=plastic&amp;labelColor=fff&amp;logo=Gmail&amp;link=mailto:adeoluwaagbakosi@gmail.com" alt="Gmail Badge"></a>
 
 
 ## Languages and Tools
