@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h2 align="center">Full Stack Web Developer | Javascript | Python | React.js | Node.js | Flask | Django | Ruby on Rails |</h2>
+<h2 align="center">Full Stack Developer | Python | Django | Flask | Javascript | React.js | Node.js</h2>
 <p align="center">
 
 * :eyes: Check my [portfolio](https://www.diegorramos.com)
